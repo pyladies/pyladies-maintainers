@@ -6,7 +6,7 @@ PyLadies resources for open source project maintainers, core developers
 ## Contents
 - Projects maintained by members of the PyLadies community
 - Projects with PyLadies as core developers
-- CPython resources
+- [CPython resources](cpython/index.md)
 - Resources for project maintainers
 
 ## History
