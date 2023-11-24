@@ -24,4 +24,5 @@ This repo follows the PyLadies Code of Conduct.
 
 ## Research about mentoring
 
-[Being a Mentor in open source projects; *I. Steinmacher et al*](https://doi.org/10.1186/s13174-021-00140-z)
+- [Being a Mentor in open source projects; *I. Steinmacher et al*](https://doi.org/10.1186/s13174-021-00140-z)
+- [Guiding the Way: A Systematic Review of Mentoring Practices in Open Source Projects](http://dx.doi.org/10.2139/ssrn.4632896)
