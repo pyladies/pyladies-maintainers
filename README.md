@@ -21,3 +21,7 @@ This repo follows the PyLadies Code of Conduct.
 ## Contribute resources
 
 ## License
+
+## Research about mentoring
+
+[Being a Mentor in open source projects; *I. Steinmacher et al*](https://doi.org/10.1186/s13174-021-00140-z)
